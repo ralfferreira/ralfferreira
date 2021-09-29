@@ -1,6 +1,5 @@
 ### Hello, I’m Ralf Dewrich Ferreira! 👋
 
-- 🔭 I’m currently working on Etec Horácio
 - 🌱 I’m currently learning TypeScript
 - 🐦 Twitter: [ralfdewrich](https://twitter.com/ralfdewrich)
 - 🧑‍💼 Linkedin: [Ralf Dewrich Ferreira](https://www.linkedin.com/in/ralfferreira/) 
