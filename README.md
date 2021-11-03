@@ -1,6 +1,6 @@
 ### Hello, I’m Ralf Dewrich Ferreira! 👋
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Java
 - 🐦 Twitter: [ralfdewrich](https://twitter.com/ralfdewrich)
 - 🧑‍💼 Linkedin: [Ralf Dewrich Ferreira](https://www.linkedin.com/in/ralfferreira/) 
 
