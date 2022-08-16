@@ -1,6 +1,6 @@
 ### Hello, I’m Ralf Dewrich Ferreira! 👋
 
-- 🌱 Full-Stack Developer
+- 🌱 Computer Engineering Undergraduate and Software Engineer
 - 🐦 Twitter: [ralfdewrich](https://twitter.com/ralfdewrich)
 - 🧑‍💼 Linkedin: [Ralf Dewrich Ferreira](https://www.linkedin.com/in/ralfferreira/) 
 
