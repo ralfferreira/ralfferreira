@@ -26,5 +26,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfferreira&layout=compact&theme=dark" alt="ralfferreira languages"/> 
 <br>
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=ralfferreira&icon=6&color=1)](https://visitcount.itsvg.in)
