@@ -2,8 +2,8 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 <h1 align="center">Hi 👋, I'm Ralf Dewrich Ferreira</h1>
+<h3 align="center">Software Engineer at <a href="https://eatingdots.com/">Eating Dots</a></h3>
 <h3 align="center">Computer Engineering Undergraduate at UFPB</h3>
-
 
 <div align="center">
   <br>
@@ -13,7 +13,7 @@
 
 <div>
   <p align="center">
-    🔭 I’m currently working on <a href="https://github.com/TailUFPB">TAIL</a><br><br>
+    🔭 I’m currently working on <a href="https://eatingdots.com/">Eating Dots</a><br><br>
     🌱 Studying <strong> Artificial Intelligence  </strong> and <strong> Data Science </strong>
   </p>
 </div>
