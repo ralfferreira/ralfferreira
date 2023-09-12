@@ -2,20 +2,12 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 <h1 align="center">Hi 👋, I'm Ralf Dewrich Ferreira</h1>
-<!-- <h3 align="center">Software Engineer at <a href="https://eatingdots.com/">Eating Dots</a></h3> -->
 <h3 align="center">Computer Engineering Undergraduate at UFPB</h3>
 
 <div align="center">
   <br>
   <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ralfferreira&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfferreira&layout=compact&langs_count-16&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-</div>
-
-<div>
-  <p align="center">
-    🔭 I’m currently working on <a href="https://eatingdots.com/">Eating Dots</a><br><br>
-    🌱 Studying <strong> Artificial Intelligence  </strong> and <strong> Data Science </strong>
-  </p>
 </div>
                                                                      
 <div> 
